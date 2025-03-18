@@ -174,41 +174,75 @@
 % Projects Section
 \section{Featured Projects}
 
-\subsection{Game Development}
-\projectboxprogress{ShadowedHunter}{\faGamepad}{A sophisticated Metroidvania-style game featuring intricate puzzles, advanced combat mechanics, and immersive storytelling. Built with a compelling narrative arc, character progression systems, and dynamic level design. Incorporates physics-based interactions, AI-driven enemy behaviors, and a comprehensive inventory management system.}{C\#, Unity, DOTween, A* Pathfinding}{Planning and development phase. Character animations and level layouts in active design.}{0.3}
-
-\subsection{System Utilities}
-\projectboxprogress{Sysmon-CLI}{\faTerminal}{A lightweight terminal-based system monitoring utility optimized for Mac \& Linux power users. Delivers real-time visualization of CPU utilization, memory allocation, disk I/O activity, and network statistics. Leverages efficient low-level system calls to ensure minimal performance impact while providing comprehensive system insights.}{C, POSIX syscalls, IOKit (macOS), procfs (Linux)}{Architecture planning completed. Initial implementation of CPU/memory tracking modules in progress.}{0.4}
+\subsection{System Utilities \& Monitoring}
+\projectboxprogress{Sysmon-CLI}{\faTerminal}{A lightweight terminal-based system monitoring utility optimized for Mac \& Linux power users. Delivers real-time visualization of CPU utilization, memory allocation, disk I/O activity, and network statistics. Leverages efficient low-level system calls to ensure minimal performance impact while providing comprehensive system insights.}{C, POSIX syscalls, IOKit (macOS), procfs (Linux)}{Architecture planning completed. Initial implementation of CPU/memory tracking modules in progress.}{0.2}
 
 \vspace{0.5cm}
 
-\projectboxprogress{SysDash Ultra}{\faChartLine}{An advanced system monitoring dashboard that provides real-time visualization of CPU, RAM, process trees, GPU utilization, disk activity, and power metrics through an interactive interface. Features predictive performance analytics, hierarchical process visualization, and customizable threshold-based alerting.}{Rust, SwiftUI, sysctl (MacOS), WebGL, D3.js}{Backend core development underway with UI wireframing in progress.}{0.35}
-
-\subsection{Developer Tools}
-\projectboxprogress{Smart-Commit}{\faCode}{An AI-powered Git commit assistant that analyzes code changes to automatically generate contextually relevant commit messages. Ensures commits are descriptive, properly structured, and follow best practices through machine learning models trained on high-quality open-source repositories.}{C++, OpenAI API, libgit2, NLP (Natural Language Processing)}{Research and model training phase completed. Base commit message generation functionality implemented.}{0.6}
+\projectboxprogress{SysDash Ultra}{\faChartLine}{An advanced system monitoring dashboard that provides real-time visualization of CPU, RAM, process trees, GPU utilization, disk activity, and power metrics through an interactive interface. Features predictive performance analytics, hierarchical process visualization, and customizable threshold-based alerting.}{Rust, SwiftUI, sysctl (MacOS), WebGL, D3.js}{Backend core development underway with UI wireframing in progress.}{0.1}
 
 \vspace{0.5cm}
 
-\projectboxprogress{CodeGrep}{\faSearch}{A high-performance, syntax-aware code search tool that understands programming language structures including function definitions, variable declarations, and partial queries. Utilizes abstract syntax tree parsing via Tree-sitter to deliver precise search results that respect code semantics rather than mere text matching.}{Rust, Tree-sitter, Regex, Fuzzy Matching Algorithms}{Implementation with advanced file indexing and search optimization in active development.}{0.45}
+\projectboxprogress{NetViz Pro}{\faProjectDiagram}{A cutting-edge network traffic analysis tool that renders inbound and outbound connections as an interactive 3D force-directed graph. Provides application-specific traffic monitoring, anomalous connection detection, and sophisticated filtering capabilities with stunning visual representations.}{Rust, SwiftUI, TypeScript, libpcap, BPF, WebGL, GraphQL}{Concept design and planning completed with UI prototype in active development.}{0.1}
+
+\subsection{Developer Tools \& Productivity}
+\projectboxprogress{Smart-Commit}{\faCode}{An AI-powered Git commit assistant that analyzes code changes to automatically generate contextually relevant commit messages. Ensures commits are descriptive, properly structured, and follow best practices through machine learning models trained on high-quality open-source repositories.}{C++, OpenAI API, libgit2, NLP (Natural Language Processing)}{Research and model training phase completed. Base commit message generation functionality implemented.}{0.3}
+
+\vspace{0.5cm}
+
+\projectboxprogress{CodeGrep}{\faSearch}{A high-performance, syntax-aware code search tool that understands programming language structures including function definitions, variable declarations, and partial queries. Utilizes abstract syntax tree parsing via Tree-sitter to deliver precise search results that respect code semantics rather than mere text matching.}{Rust, Tree-sitter, Regex, Fuzzy Matching Algorithms}{Implementation with advanced file indexing and search optimization in active development.}{0.4}
 
 \vspace{0.5cm}
 
 \projectboxprogress{Iris - AI Coding Assistant}{\faMicrochip}{A fully on-device AI-powered coding assistant for Neovim/VS Code that provides contextual code suggestions, intelligent refactoring recommendations, and interactive debugging assistance. Leverages locally-running language models to ensure privacy and eliminate cloud API dependencies.}{C++, Rust, Julia, SQLite, Redis, LLMs, Coqui TTS, Speech Recognition}{Neovim integration completed with AI reasoning module in active development.}{0.55}
 
-\subsection{Productivity Applications}
-\projectboxprogress{WorkTime}{\faClock}{An intelligent iOS application designed to automatically track productive hours through smart detection of active work sessions. Analyzes app usage patterns, device movement signatures, and Screen Time API data to generate comprehensive productivity analytics and trend visualizations.}{Swift, SwiftUI, CoreData, Screen Time API}{User interface design completed with data tracking integration in progress.}{0.7}
+\vspace{0.5cm}
+
+\projectboxprogress{Neovim Config}{\faKeyboard}{A meticulously crafted Neovim configuration optimized for professional software development workflows. Features custom plugins, intuitive keybindings, intelligent code completion, and language-specific optimizations designed to maximize productivity and reduce context-switching.}{Lua, VimScript, Tree-sitter, LSP}{Ongoing refinement with regular updates based on workflow improvements.}{0.85}
 
 \vspace{0.5cm}
 
-\projectboxprogress{AutoSort}{\faFolderOpen}{A background file organization daemon that automatically categorizes and sorts files based on configurable rule sets. Supports intelligent sorting based on file type, naming patterns, metadata extraction, and content recognition through OCR processing.}{Go, fsnotify, YAML/JSON configuration, OCR processing (Tesseract)}{Core file detection and rule-based sorting logic implemented with OCR support in development.}{0.65}
+\projectboxprogress{apple\_music.nvim}{\faMusic}{A Neovim plugin that integrates with Apple Music, allowing users to control playback directly from their editor. Features include play/pause, track skipping, and real-time display of the currently playing song. Designed for seamless music control without leaving the coding environment.}{Lua, AppleScript}{In development.}{0.8}
 
-\subsection{Network \& Data Visualization}
-\projectboxprogress{NetViz Pro}{\faProjectDiagram}{A cutting-edge network traffic analysis tool that renders inbound and outbound connections as an interactive 3D force-directed graph. Provides application-specific traffic monitoring, anomalous connection detection, and sophisticated filtering capabilities with stunning visual representations.}{Rust, SwiftUI, TypeScript, libpcap, BPF, WebGL, GraphQL}{Concept design and planning completed with UI prototype in active development.}{0.25}
+\vspace{0.5cm}
 
-\subsection{Education Technology}
-\projectboxprogress{BitVoyager}{\faGraduationCap}{A browser-based gamified programming education platform where users complete interactive coding challenges in a simulated development environment. Features an XP-based progression system, skill trees, and a comprehensive curriculum covering multiple programming paradigms.}{TypeScript, WebAssembly, Python, Rust, xterm.js}{Interactive shell prototype completed with curriculum content in ongoing development.}{0.5}
+\projectboxprogress{2077.nvim}{\faPalette}{A Cyberpunk 2077-inspired Neovim theme designed with a futuristic neon aesthetic. Features optimized syntax highlighting, seamless lualine integration, and customizable UI elements. Provides an immersive and highly readable coding experience with vibrant color contrasts and ergonomic design considerations.}{Lua}{Fully completed and available for use.}{1.0}
 
+\vspace{0.5cm}
 
+\projectboxprogress{QueryCrust}{\faDatabase}{A sophisticated web-based database query management tool with an intuitive interface for optimizing and executing complex database operations. Built with modern web technologies and designed to simplify working with large and complex datasets through visual query building and optimization suggestions.}{React, TailwindCSS, Python, Flask, MySQL}{Completed and fully functional with all core features implemented.}{1.0}
+
+\subsection{Content Management \& Organization}
+\projectboxprogress{AutoSort}{\faFolderOpen}{A background file organization daemon that automatically categorizes and sorts files based on configurable rule sets. Supports intelligent sorting based on file type, naming patterns, metadata extraction, and content recognition through OCR processing.}{Go, fsnotify, YAML/JSON configuration, OCR processing (Tesseract)}{Core file detection and rule-based sorting logic implemented with OCR support in development.}{0.25}
+
+\vspace{0.5cm}
+
+\projectboxprogress{WorkTime}{\faClock}{An intelligent iOS application designed to automatically track productive hours through smart detection of active work sessions. Analyzes app usage patterns, device movement signatures, and Screen Time API data to generate comprehensive productivity analytics and trend visualizations.}{Swift, SwiftUI, CoreData, Screen Time API}{User interface design completed with data tracking integration in progress.}{0.3}
+
+\subsection{Games \& Interactive Entertainment}
+\projectboxprogress{ShadowedHunter}{\faGamepad}{A sophisticated Metroidvania-style game featuring intricate puzzles, advanced combat mechanics, and immersive storytelling. Built with a compelling narrative arc, character progression systems, and dynamic level design. Incorporates physics-based interactions, AI-driven enemy behaviors, and a comprehensive inventory management system.}{C\#, Unity, DOTween, A* Pathfinding}{Planning and development phase. Character animations and level layouts in active design.}{0.5}
+
+\vspace{0.5cm}
+
+\projectboxprogress{Pot Pot Golf}{\faGolfBall}{A physics-based 2D mini-golf simulation featuring realistic ball dynamics, variable terrain properties, and intelligent AI opponents. Players strategically control initial velocities and angles to navigate challenging courses with the fewest shots possible while contending with customizable friction and obstacle settings.}{Java, LWJGL, Box2D Physics}{Completed with full gameplay features, multiple courses, and AI opponent functionality.}{1.0}
+
+\vspace{0.5cm}
+
+\projectboxprogress{Chess Bot}{\faChess}{An intelligent chess engine implementing advanced heuristic-based decision making algorithms for move analysis and execution. Features positional evaluation, tactical calculation, and strategic planning capabilities that adapt to opponent play patterns through runtime optimization.}{Rust, minimax algorithm, alpha-beta pruning}{Core move generation and board representation implemented. Strategic evaluation algorithms in development.}{0.5}
+
+\vspace{0.5cm}
+
+\projectboxprogress{IDraughts Pro}{\faChessBoard}{A multiplayer Frisian Draughts game featuring real-time move validation, player-vs-player mode, and AI opponents. Implements a robust WebSocket server for seamless online play with intelligent move validation, disconnection handling, and game state recovery. AI opponents utilize Minimax and Deep Q-Network (DQN) algorithms for challenging gameplay.}{Rust, WebSockets, Minimax, DQN AI, Heroku}{Core game logic implemented with multiplayer server deployment in progress.}{0.9}
+
+\subsection{Knowledge Management \& Learning}
+\projectboxprogress{Thynkly}{\faLightbulb}{A comprehensive knowledge management platform combining note-taking, interactive mind mapping, and AI-driven flashcard generation. Designed to help users organize, visualize, and retain information efficiently. Features include real-time data synchronization, LaTeX support, collaborative editing, and AI-powered insights to enhance learning.}{[Tech Stack TBD]}{Application in active development, focusing on expanding features and refining user experience.}{0.2}
+
+\subsection{Educational Technology}
+\projectboxprogress{BitVoyager}{\faGraduationCap}{A browser-based gamified programming education platform where users complete interactive coding challenges in a simulated development environment. Features an XP-based progression system, skill trees, and a comprehensive curriculum covering multiple programming paradigms.}{TypeScript, WebAssembly, Python, Rust, xterm.js}{Interactive shell prototype completed with curriculum content in ongoing development.}{0.7}
+
+\vspace{0.5cm}
+
+\projectboxprogress{PyNexus}{\faIcon{mobile-alt}}{An intuitive iOS application designed to introduce beginners to Python programming through interactive exercises, visual feedback, and progressive challenges. Features step-by-step tutorials, real-time code execution, and achievement-based learning to keep users engaged and motivated.}{Swift, UIKit, Python interpreter integration}{Initial concept and design completed. Project currently on hold.}{0.2}
 
 \section{Technical Expertise}
 
