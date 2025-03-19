@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.16)  19 MAR 2025 00:32
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.16)  19 MAR 2025 01:04
  restricted system commands enabled.
 **portfolio.tex
 (./portfolio.tex
@@ -799,36 +799,36 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip66
 \f@nch@O@orf=\skip67
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 124.
+Package hyperref Info: Option `colorlinks' set `true' on input line 125.
 
 (./portfolio.aux)
 \openout1 = portfolio.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-27.
+28.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
@@ -885,701 +885,766 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 127.
+Package hyperref Info: Link coloring ON on input line 128.
 
 (./portfolio.out) (./portfolio.out)
 \@outlinefile=\write4
 
 \openout4 = portfolio.out
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-58.
+59.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-58.
+59.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-158.
+159.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-158.
+159.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 158.
+(Font)              <10.95> on input line 159.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 158.
+(Font)              <8> on input line 159.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 158.
+(Font)              <6> on input line 159.
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][]\TU/FiraSans(0)/m/n/10.95 A lightweight terminal-based sys-tem mon-i-tor-ing
  util-ity op-ti-mized for Mac & Linux
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 \TU/FiraSans(0)/m/n/10.95 power users. De-liv-ers real-time vi-su-al-iza-tion of
  CPU uti-liza-tion, mem-ory al-lo-ca-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 \TU/FiraSans(0)/m/n/10.95 disk I/O ac-tiv-ity, and net-work statis-tics. Lever-a
 ges ef-fi-cient low-level sys-tem calls to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 \TU/FiraSans(0)/m/n/10.95 en-sure min-i-mal per-for-mance im-pact while pro-vid-
 ing com-pre-hen-sive sys-tem in-sights.[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Ar-chi-tec-ture pl
 an-ning com-pleted. Ini-tial im-ple-men-ta-tion of CPU/mem-ory track-ing
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--179
+Overfull \hbox (0.4pt too wide) in paragraph at lines 179--180
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 [][]\TU/FiraSans(0)/m/n/10.95 An ad-vanced sys-tem mon-i-tor-ing dash-board that
  pro-vides real-time vi-su-al-iza-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/FiraSans(0)/m/n/10.95 CPU, RAM, pro-cess trees, GPU uti-liza-tion, disk ac-t
 iv-ity, and power met-rics through an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/FiraSans(0)/m/n/10.95 in-ter-ac-tive in-ter-face. Fea-tures pre-dic-tive per
 -for-mance an-a-lyt-ics, hi-er-ar-chi-cal pro-cess
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Back-end core de-v
 el-op-ment un-der-way with UI wire-fram-ing in progress.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 182--183
+Overfull \hbox (0.4pt too wide) in paragraph at lines 183--184
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 [][]\TU/FiraSans(0)/m/n/10.95 A cutting-edge net-work traf-fic anal-y-sis tool 
 that ren-ders in-bound and out-bound
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 \TU/FiraSans(0)/m/n/10.95 con-nec-tions as an in-ter-ac-tive 3D force-directed 
 graph. Pro-vides application-specific
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 \TU/FiraSans(0)/m/n/10.95 traf-fic mon-i-tor-ing, anoma-lous con-nec-tion de-tec
 -tion, and so-phis-ti-cated fil-ter-ing ca-pa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Con-cept de-sign 
 and plan-ning com-pleted with UI pro-to-type in ac-tive de-vel-op-ment.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 186--187
+Overfull \hbox (0.4pt too wide) in paragraph at lines 187--188
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 [][]\TU/FiraSans(0)/m/n/10.95 An AI-powered Git com-mit as-sis-tant that an-a-ly
 zes code changes to au-to-mat-i-cally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 \TU/FiraSans(0)/m/n/10.95 gen-er-ate con-tex-tu-ally rel-e-vant com-mit mes-sage
 s. En-sures com-mits are de-scrip-tive,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 \TU/FiraSans(0)/m/n/10.95 prop-erly struc-tured, and fol-low best prac-tices thr
 ough ma-chine learn-ing mod-els
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Re-search and mode
 l train-ing phase com-pleted. Base com-mit mes-sage gen-er-a-tion
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 189--190
+Overfull \hbox (0.4pt too wide) in paragraph at lines 190--191
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 [][]\TU/FiraSans(0)/m/n/10.95 A high-performance, syntax-aware code search tool that un-der-stands pro-gram-ming
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 \TU/FiraSans(0)/m/n/10.95 lan-guage struc-tures in-clud-ing func-tion def-i-ni-t
 ions, vari-able dec-la-ra-tions, and par-tial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 \TU/FiraSans(0)/m/n/10.95 queries. Uti-lizes ab-stract syn-tax tree pars-ing via
  Tree-sitter to de-liver pre-cise search
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Im-ple-men-ta-tion
  with ad-vanced file in-dex-ing and search op-ti-miza-tion in ac-tive
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 193--194
+Overfull \hbox (0.4pt too wide) in paragraph at lines 194--195
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 [][]\TU/FiraSans(0)/m/n/10.95 A fully on-device AI-powered cod-ing as-sis-tant 
 for Neovim/VS Code that pro-vides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 \TU/FiraSans(0)/m/n/10.95 con-tex-tual code sug-ges-tions, in-tel-li-gent refac-
 tor-ing rec-om-men-da-tions, and in-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 \TU/FiraSans(0)/m/n/10.95 ac-tive de-bug-ging as-sis-tance. Lever-ages locally-r
 unning lan-guage mod-els to en-sure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Neovim in-te-gra-t
 ion com-pleted with AI rea-son-ing mod-ule in ac-tive de-vel-op-ment.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 197--198
+Overfull \hbox (0.4pt too wide) in paragraph at lines 198--199
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 [][]\TU/FiraSans(0)/m/n/10.95 A metic-u-lously cra󰀖ted Neovim con-fig-u-ra-ti
 on op-ti-mized for pro-fes-sional so󰀖t-ware
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 \TU/FiraSans(0)/m/n/10.95 de-vel-op-ment work-flows. Fea-tures cus-tom plu-g-ins
 , in-tu-itive key-bind-ings, in-tel-li-gent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 \TU/FiraSans(0)/m/n/10.95 code com-ple-tion, and language-specific op-ti-miza-ti
 ons de-signed to max-i-mize pro-duc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 On-go-ing re-fine-
 ment with reg-u-lar up-dates based on work-flow im-prove-ments.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 201--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 202--203
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 [][]\TU/FiraSans(0)/m/n/10.95 A Neovim plu-gin that in-te-grates with Ap-ple Mu-
 sic, al-low-ing users to con-trol play-back
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 \TU/FiraSans(0)/m/n/10.95 di-rectly from their ed-i-tor. Fea-tures in-clude play
 /pause, track skip-ping, and real-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 \TU/FiraSans(0)/m/n/10.95 dis-play of the cur-rently play-ing song. De-signed fo
 r seam-less mu-sic con-trol with-out
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 205--206
+Overfull \hbox (0.4pt too wide) in paragraph at lines 206--207
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 [][]\TU/FiraSans(0)/m/n/10.95 A Cy-ber-punk 2077-inspired Neovim theme de-signed
  with a fu-tur-is-tic neon aes-thetic.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \TU/FiraSans(0)/m/n/10.95 Fea-tures op-ti-mized syn-tax high-light-ing, seam-les
 s lu-a-line in-te-gra-tion, and cus-tomiz-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \TU/FiraSans(0)/m/n/10.95 able UI el-e-ments. Pro-vides an im-mer-sive and highl
 y read-able cod-ing ex-pe-ri-ence with
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--210
+Overfull \hbox (0.4pt too wide) in paragraph at lines 210--211
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 [][]\TU/FiraSans(0)/m/n/10.95 A so-phis-ti-cated web-based database query man-ag
 e-ment tool with an in-tu-itive in-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 \TU/FiraSans(0)/m/n/10.95 face for op-ti-miz-ing and ex-e-cut-ing com-plex datab
 ase op-er-a-tions. Built with mod-ern
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 \TU/FiraSans(0)/m/n/10.95 web tech-nolo-gies and de-signed to sim-plify work-ing
  with large and com-plex datasets
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Com-pleted and ful
 ly func-tional with all core fea-tures im-ple-mented.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 213--214
+Overfull \hbox (0.4pt too wide) in paragraph at lines 214--215
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 [][]\TU/FiraSans(0)/m/n/10.95 A back-ground file or-ga-ni-za-tion dae-mon that 
 au-to-mat-i-cally cat-e-go-rizes and sorts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 \TU/FiraSans(0)/m/n/10.95 files based on con-fig-urable rule sets. Sup-ports in-
 tel-li-gent sort-ing based on file type,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 \TU/FiraSans(0)/m/n/10.95 nam-ing pat-terns, meta-data ex-trac-tion, and con-ten
 t recog-ni-tion through OCR pro-cess-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Core file de-tec-t
 ion and rule-based sort-ing logic im-ple-mented with OCR sup-port in
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 216--217
+Overfull \hbox (0.4pt too wide) in paragraph at lines 217--218
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 [][]\TU/FiraSans(0)/m/n/10.95 An in-tel-li-gent iOS ap-pli-ca-tion de-signed to au-to-mat-i-cally track pro-duc-tive hours
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 \TU/FiraSans(0)/m/n/10.95 through smart de-tec-tion of ac-tive work ses-sions. 
 An-a-lyzes app us-age pat-terns, de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 \TU/FiraSans(0)/m/n/10.95 vice move-ment sig-na-tures, and Screen Time API data to gen-er-ate com-pre-hen-sive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 User in-ter-face 
 de-sign com-pleted with data track-ing in-te-gra-tion in progress.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 220--221
+Overfull \hbox (0.4pt too wide) in paragraph at lines 221--222
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 [][]\TU/FiraSans(0)/m/n/10.95 A so-phis-ti-cated Metroidvania-style game fea-tur
 -ing in-tri-cate puz-zles, ad-vanced com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 \TU/FiraSans(0)/m/n/10.95 bat me-chan-ics, and im-mer-sive sto-ry-telling. Built
  with a com-pelling nar-ra-tive arc,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 \TU/FiraSans(0)/m/n/10.95 char-ac-ter pro-gres-sion sys-tems, and dy-namic level
  de-sign. In-cor-po-rates physics-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 \TU/FiraSans(0)/m/n/10.95 based in-ter-ac-tions, AI-driven en-emy be-hav-iors, 
 and a com-pre-hen-sive in-ven-tory
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Plan-ning and de-v
 el-op-ment phase. Char-ac-ter an-i-ma-tions and level lay-outs in ac-
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 223--224
+Overfull \hbox (0.4pt too wide) in paragraph at lines 224--225
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 [][]\TU/FiraSans(0)/m/n/10.95 A physics-based 2D mini-golf sim-u-la-tion fea-tur
 -ing re-al-is-tic ball dy-nam-ics, vari-able
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \TU/FiraSans(0)/m/n/10.95 ter-rain prop-er-ties, and in-tel-li-gent AI op-po-nen
 ts. Play-ers strate-gi-cally con-trol ini-tial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \TU/FiraSans(0)/m/n/10.95 ve-loc-i-ties and an-gles to nav-i-gate chal-leng-ing courses with the fewest shots pos-si-ble
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Com-pleted with fu
 ll game-play fea-tures, mul-ti-ple courses, and AI op-po-nent func-
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 227--228
+Overfull \hbox (0.4pt too wide) in paragraph at lines 228--229
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 [][]\TU/FiraSans(0)/m/n/10.95 An in-tel-li-gent chess en-gine im-ple-ment-ing ad
 -vanced heuristic-based de-ci-sion mak-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/FiraSans(0)/m/n/10.95 al-go-rithms for move anal-y-sis and ex-e-cu-tion. Fea
 -tures po-si-tional eval-u-a-tion, tac-ti-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/FiraSans(0)/m/n/10.95 cal-cu-la-tion, and strate-gic plan-ning ca-pa-bil-i-t
 ies that adapt to op-po-nent play pat-terns
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Core move gen-er-a
 -tion and board rep-re-sen-ta-tion im-ple-mented. Strate-gic eval-u-a-
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 231--232
+Overfull \hbox (0.4pt too wide) in paragraph at lines 232--233
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 [][]\TU/FiraSans(0)/m/n/10.95 A mul-ti-player Frisian Draughts game fea-tur-ing real-time move val-i-da-tion, player-vs-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 \TU/FiraSans(0)/m/n/10.95 player mode, and AI op-po-nents. Im-ple-ments a ro-bus
 t Web-Socket server for seam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 \TU/FiraSans(0)/m/n/10.95 less on-line play with in-tel-li-gent move val-i-da-ti
 on, dis-con-nec-tion han-dling, and game
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 \TU/FiraSans(0)/m/n/10.95 state re-cov-ery. AI op-po-nents uti-lize Min-i-max an
 d Deep Q-Network (DQN) al-go-rithms
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Core game logic im
 -ple-mented with mul-ti-player server de-ploy-ment in progress.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 235--236
+Overfull \hbox (0.4pt too wide) in paragraph at lines 236--237
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][]\TU/FiraSans(0)/m/n/10.95 A com-pre-hen-sive knowl-edge man-age-ment plat-fo
 rm com-bin-ing note-taking, in-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \TU/FiraSans(0)/m/n/10.95 ac-tive mind map-ping, and AI-driven flash-card gen-er
 -a-tion. De-signed to help users
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \TU/FiraSans(0)/m/n/10.95 or-ga-nize, vi-su-al-ize, and re-tain in-for-ma-tion 
 ef-fi-ciently. Fea-tures in-clude real-time data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \TU/FiraSans(0)/m/n/10.95 syn-chro-niza-tion, La-TeX sup-port, col-lab-o-ra-tive
  edit-ing, and AI-powered in-sights to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Ap-pli-ca-tion in ac-tive de-vel-op-ment, fo-cus-ing on ex-pand-ing fea-tures and re-fin-ing
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--239
+Overfull \hbox (0.4pt too wide) in paragraph at lines 239--240
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
 [][]\TU/FiraSans(0)/m/n/10.95 A browser-based gam-i-fied pro-gram-ming ed-u-ca-t
 ion plat-form where users com-plete
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
 \TU/FiraSans(0)/m/n/10.95 in-ter-ac-tive cod-ing chal-lenges in a sim-u-lated de
 -vel-op-ment en-vi-ron-ment. Fea-tures an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
 \TU/FiraSans(0)/m/n/10.95 XP-based pro-gres-sion sys-tem, skill trees, and a com
 -pre-hen-sive cur-ricu-lum cov-er-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 In-ter-ac-tive she
 ll pro-to-type com-pleted with cur-ricu-lum con-tent in on-go-ing de-vel-
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 241--242
+Overfull \hbox (0.4pt too wide) in paragraph at lines 242--243
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 [][]\TU/FiraSans(0)/m/n/10.95 An in-tu-itive iOS ap-pli-ca-tion de-signed to in-
 tro-duce be-gin-ners to Python pro-gram-ming
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \TU/FiraSans(0)/m/n/10.95 through in-ter-ac-tive ex-er-cises, vi-sual feed-back,
  and pro-gres-sive chal-lenges. Fea-tures
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \TU/FiraSans(0)/m/n/10.95 step-by-step tu-to-ri-als, real-time code ex-e-cu-tion
 , and achievement-based learn-ing to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 [][]\TU/FiraSans(0)/b/n/10 Progress:[] \TU/FiraSans(0)/m/n/10 Ini-tial con-cept and de-sign com-pleted. Project cur-rently on hold.
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 245--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 246--247
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+[]\TU/FiraSans(0)/m/n/10.95 Low-level Sys-tem Pro-gram-ming & Hard-
+ []
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 278--307
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+[]\TU/FiraSans(0)/m/n/10.95 Real-time Data Pro-cess-ing, Mon-i-tor-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+[]\TU/FiraSans(0)/m/n/10.95 AI/ML In-te-gra-tion & Data-driven In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+[]\TU/FiraSans(0)/m/n/10.95 UI/UX De-sign & In-ter-ac-tive Vi-su-al-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+[]\TU/FiraSans(0)/m/n/10.95 Per-for-mance Op-ti-miza-tion & Re-source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[]\TU/FiraSans(0)/m/n/10.95 Cross-platform & Dis-tributed De-vel-op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]\TU/FiraSans(0)/m/n/10.95 Net-work Traf-fic Anal-y-sis & Se-cu-rity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+[]\TU/FiraSans(0)/m/n/10.95 Au-to-mated Work-flow & Pro-duc-tiv-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+[]\TU/FiraSans(0)/m/n/10.95 Object-Oriented & Component-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[]\TU/FiraSans(0)/m/n/10.95 Data-driven & Event-driven De-vel-op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+[]\TU/FiraSans(0)/m/n/10.95 Test-driven & Behavior-driven De-vel-op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+[]\TU/FiraSans(0)/m/n/10.95 Ag-ile Method-olo-gies & It-er-a-tive Pro-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+[]\TU/FiraSans(0)/m/n/10.95 Se-cure Cod-ing Prac-tices & Ro-bust En-gi-
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 289--322
 [] 
  []
 
-[6] [7] (./portfolio.aux)
+[7] (./portfolio.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1589,14 +1654,14 @@ Package rerunfilecheck Info: File `portfolio.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26721 strings out of 476447
+ 26722 strings out of 476447
  244207,1977958 words of node,token memory allocated
  481 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 59 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 1:4,2:18570,3:20084,4:3341,5:1084,6:88,7:9695,8:2,9:544,10:26,11
-:546
- 48216 multiletter control sequences out of 65536+600000
+   avail lists: 1:4,2:18570,3:20084,4:3341,5:1084,6:110,7:9695,8:2,9:729,10:26,1
+1:546
+ 48217 multiletter control sequences out of 65536+600000
  48 fonts using 10734591 bytes
  102i,11n,101p,598b,1165s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAweso
@@ -1605,7 +1670,7 @@ lic/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/2024/texmf-d
 ist/fonts/opentype/public/fira/FiraSans-Italic.otf></usr/local/texlive/2024/texm
 f-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr/local/texlive/2024/
 texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
-Output written on portfolio.pdf (7 pages, 70209 bytes).
+Output written on portfolio.pdf (7 pages, 71518 bytes).
 
 PDF statistics: 112 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
